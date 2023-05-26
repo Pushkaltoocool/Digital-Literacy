@@ -76,6 +76,7 @@ body {
   }
 
   .active {
+    font-family:verdana
     color: #ffffff; /* Link color */
     text-decoration: none; /* Remove underline by default */
   }
